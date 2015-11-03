@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="home_activities">
+        <item>Tests</item>
+        <item>Results</item>
+        <item>Teachers</item>
+
+    </string-array>
+    <string-array name="test_activities">
+        <item>Ordinary Level</item>
+        <item>Advanced Level</item>
+        <item>Others</item>
+    </string-array>
+
+    <string-array name="test_activities_subtitle">
+        <item>Choose subject please</item>
+        <item>Choose subject please</item>
+        <item>waitng for updates</item>
+    </string-array>
+
+    <string-array name="home_activities_subtitle">
+        <item>You can be tested here</item>
+        <item>Get you results here</item>
+        <item>Available instructors</item>
+    </string-array>
+
+</resources>
